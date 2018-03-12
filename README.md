@@ -15,6 +15,6 @@ localhasot@android:/sdcard $ sh pdfc.sh InputPdf.pdf OutputPdf.pdf
 ```
 
 <b>Screenshot:</b>
-![Alt Text](https://raw.githubusercontent.com/Hendriyawan/PDFC/master/ss.jpg)
+![alt tag](https://raw.githubusercontent.com/Hendriyawan/PDFC/master/ss.jpg)
 
 
