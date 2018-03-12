@@ -14,7 +14,6 @@ open Terminal Emulator app, then type follows
 localhasot@android:/sdcard $ sh pdfc.sh InputPdf.pdf OutputPdf.pdf
 ```
 
-<b>Screenshot:</b>
 <img src="https://raw.githubusercontent.com/Hendriyawan/PDFC/master/ss.jpg" width="250" />
 
 
