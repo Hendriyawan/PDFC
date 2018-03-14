@@ -10,7 +10,7 @@ public class FileSize
 	*/
 	public static String getSizeFile(File file){
 		String size = "";
-		if(file.length() > 1024){
+		if(file.length() >= 1048576){
 			//get size MB
 			size = new DecimalFormat("##.##").format((double)file.length() / (1024*1024))+"MB";
 		}
