@@ -18,7 +18,7 @@ public class Main
 	*/
 	public static void main(String[] args){
 		if(args.length == 2){
-			Title.setTitle(" PDF COMPRESSOR ");
+			Title.setTitle(" PDF COMPRESOR ");
 			String inputPdfFile = checkInputFile(args[0]);
 			String outputPdfFile = args[1];
 			
