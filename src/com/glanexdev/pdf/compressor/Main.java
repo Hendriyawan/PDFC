@@ -50,7 +50,7 @@ public class Main
 			}
 		}
 		else {
-			Title.setTitle(" PDF COMPRESSER ");
+			Title.setTitle(" PDF COMPRESSOR ");
 			
 			System.out.println("created by Hendriyawan");
 			System.out.println();
